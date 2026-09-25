@@ -10,7 +10,7 @@ git remote add origin https://github.com/mvillaltazapata713-design/opus-educativ
 echo ====== GIT ADD ====== >> auto-push-log.txt
 git add . >> auto-push-log.txt 2>&1
 echo ====== GIT COMMIT ====== >> auto-push-log.txt
-git commit -m "Agregar logo en varias secciones y mejorar encuadre de foto" >> auto-push-log.txt 2>&1
+git commit -m "Actualizar foto de la docente con rostro completo" >> auto-push-log.txt 2>&1
 echo ====== GIT BRANCH ====== >> auto-push-log.txt
 git branch -M main >> auto-push-log.txt 2>&1
 echo ====== GIT PUSH ====== >> auto-push-log.txt
