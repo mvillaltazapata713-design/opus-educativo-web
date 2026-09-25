@@ -1,0 +1,4 @@
+====== INICIO ====== 
+====== GIT CONFIG ====== 
+====== GIT REMOTE ====== 
+====== GIT ADD ====== 
